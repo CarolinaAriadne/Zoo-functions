@@ -9,6 +9,3 @@ function calculateEntry(entrants) {
 }
 
 module.exports = { calculateEntry, countEntrants };
-
-
-teste
