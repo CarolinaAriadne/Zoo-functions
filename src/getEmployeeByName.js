@@ -1,7 +1,7 @@
 const data = require('../data/zoo_data');
 
 function getEmployeeByName(employeeName) {
-  const verifyName = data.employees.find( 
+  const verifyName = data.employees.find(
     (elemento) =>
       elemento.firstName === employeeName || elemento.lastName === employeeName,
   );
