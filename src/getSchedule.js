@@ -44,3 +44,5 @@ module.exports = getSchedule;
 // 4) Na linha 18,19: se eu passar como parâmetro da minha função, um animal específico: uso o some, para verificar se em data.species, existe algum animal que possui o mesmo nome que passei para minha função. Se sim, uso o find para que seja retornado o primeiro animal encontrado em data.especie que possua o nome igual ao passado ao meu parâmetro, acesso availability pq quero que sejam retornados os dias que este animal passado como parâmetro, estão disponíveis, retorno um array com os dias (some retorna array)
 
 // 5) Na linha 21 retorno meu changeObject para minha função getShedule
+
+// teste - avaliador
