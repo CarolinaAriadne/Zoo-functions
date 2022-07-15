@@ -1,10 +1,3 @@
-# 🚧 README em construção 🚧
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# # Neste projeto, foram implementadas diversas funções utilizando Higher Order Functions, a fim de manipular e criar arrays. Para isso, foi necessário quebrar problemas complexos em pequenas partes. Através dessas funções, é possível manipular o sistema de um Zoológico de forma objetiva e eficiente. Além disso, outras funcionalidades do ES6 foram também utilizadas. 
+
+# # Os arquivos de minha autoria, são todos os que estão dentro do diretório src. Os demais arquivos, são de autoria da instituição de ensino Trybe.
